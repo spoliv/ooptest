@@ -12,7 +12,7 @@
     <input type="text" size="28" name="title" />
     <br />
     <legend><h3>Добавьте текст</h3></legend>
-    <textarea cols="30" rows="5" name="article"></textarea>
+    <textarea cols="30" rows="5" name="text"></textarea>
     <br/>
     <input type="submit" value="добавить" />
 </form>
